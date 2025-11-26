@@ -1,3 +1,4 @@
+Emotion Classification
 | DataSet | Type | Classes | # Classes | # Samples | Domains | EmotionModel | Year | License | paper |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | [ShortPersianEmo](https://github.com/vkiani/ShortPersianEmo) | Emotion | happiness:1625, sadness:939, anger:1125, fear:380, and other:1403 | 5 | 5472 | Twitter, Digikala | RachaelJack | 2023 | GNU | Investigating shallow and deep learning techniques for emotion classification in short Persian texts |
@@ -8,7 +9,7 @@
 
 
 
-
+Sentiment Analysis
 | DataSet | # Classes | # Samples | Domains | Year | License | Paper Title | Notes |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | Not specified | 3 | 12055 | Twitter | 2021 | - | ParsBERT Post-Training for Sentiment Analysis of Tweets Concerning Stock Market | - |
@@ -22,3 +23,8 @@
 | Not specified | 3 | 12055 | Twitter | 2021 | not specified | ParsBERT Post-Training for Sentiment Analysis of Tweets Concerning Stock Market | - |
 | [Multimodal-Persian-SA](https://github.com/mebasiri/Multimodal-Persian-Sentiment-Analysis) | 1:561, 0:439 | 1000 | Instagram, Telegram | 2021 | not specified | Sentiment Analysis of Persian Instagram Post: a Multimodal Deep Learning Approach | Multi-Modal, Text and image |
 | InstaText | 3 | 8512 | Instagram | 2021 | not specified | Producing An Instagram Dataset for Persian Language Sentiment Analysis Using Crowdsourcing Method | - |
+
+Named Entity Recognition
+ DataSet | # Classes | # Samples | Domains | Year | License | Paper Title | Notes |
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+[| Not specified | 3 | 12055 | Twitter | 2021 | - | ParsBERT Post-Training for Sentiment Analysis of Tweets Concerning Stock Market | - |](https://chatgpt.com/c/69259576-9328-832b-943a-9d4a36968ce4#:~:text=%7C%20XTREME%20(PAN%2DX)%20NER%20%7C%203%20%7C%20~20%2C000%20sentences%20(varies)%20%7C%20Wikipedia%20%7C%202020%20%7C%20CC%20BY%2DSA%204.0%20%7C%20XTREME%3A%20A%20Massively%20Multilingual%20Multi%2Dtask%20Benchmark%20for%20Evaluating%20Cross%2Dlingual%20Generalization%20%7C%20Persian%20available%20only%20for%20POS%20%26%20NER%20%7C)
