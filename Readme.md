@@ -27,4 +27,5 @@ Sentiment Analysis
 Named Entity Recognition
  DataSet | # Classes | # Samples | Domains | Year | License | Paper Title | Notes |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-[| Not specified | 3 | 12055 | Twitter | 2021 | - | ParsBERT Post-Training for Sentiment Analysis of Tweets Concerning Stock Market | - |](https://chatgpt.com/c/69259576-9328-832b-943a-9d4a36968ce4#:~:text=%7C%20XTREME%20(PAN%2DX)%20NER%20%7C%203%20%7C%20~20%2C000%20sentences%20(varies)%20%7C%20Wikipedia%20%7C%202020%20%7C%20CC%20BY%2DSA%204.0%20%7C%20XTREME%3A%20A%20Massively%20Multilingual%20Multi%2Dtask%20Benchmark%20for%20Evaluating%20Cross%2Dlingual%20Generalization%20%7C%20Persian%20available%20only%20for%20POS%20%26%20NER%20%7C)
+| XTREME (PAN-X) NER | 3 | ~20,000 sentences (varies) | Wikipedia | 2020 | CC BY-SA 4.0 | XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization | Persian available only for POS & NER |
+
