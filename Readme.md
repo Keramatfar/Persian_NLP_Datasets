@@ -27,5 +27,6 @@ Sentiment Analysis
 Named Entity Recognition
  DataSet | # Classes | # Samples | Domains | Year | License | Paper Title | Notes |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| XTREME (PAN-X) NER | 3 | ~20,000 sentences (varies) | Wikipedia | 2020 | CC BY-SA 4.0 | XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization | Persian available only for POS & NER |
+| XTREME (PAN-X) NER | 3 | 40,000 samples (20k train / 10k val / 10k test) | Wikipedia | 2020 | CC BY-SA 4.0 | XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization | Persian subset of WikiAnn (tokens only, no raw sentences) |
+
 
