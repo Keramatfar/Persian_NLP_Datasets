@@ -28,6 +28,6 @@ Named Entity Recognition
  DataSet | # Classes | # Samples | Domains | Year | License | Paper Title | Notes |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | [XTREME (PAN-X) NER](https://github.com/google-research/xtreme) | 3 | 40,000 samples (20k train / 10k val / 10k test) | Wikipedia | 2020 | CC BY-SA 4.0 | XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization | Persian subset of WikiAnn (tokens only, no raw sentences) |
-https://github.com/Text-Mining/Persian-NER | Persian-NER | 5 | ~25,000,000 tokens (~1,000,000 sentences) | Wikipedia (Persian) | 2023 | CC BY-SA / Open-source | Persian Wikipedia NER corpus | Standard NER corpus with 5 entity types (PER, ORG, LOC, EVT, DAT); community contributions (>1000 users) allowed to improve annotations via https://app.text-mining.ir
+| [Persian-NER](https://github.com/Text-Mining/Persian-NER) | Persian-NER | 5 | ~25,000,000 tokens (~1,000,000 sentences) Wikipedia (Persian) | 2023 | CC BY-SA / Open-source | Persian Wikipedia NER corpus | Standard NER corpus with 5 entity types (PER, ORG, LOC, EVT, DAT); community contributions (>1000 users) allowed to improve annotations via https://app.text-mining.ir
 
 
