@@ -30,4 +30,14 @@ Named Entity Recognition
 | [XTREME (PAN-X) NER](https://github.com/google-research/xtreme) | 3 | 40,000 samples (20k train / 10k val / 10k test) | Wikipedia | 2020 | CC BY-SA 4.0 | XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization | Persian subset of WikiAnn (tokens only, no raw sentences) |
 | [Persian-NER](https://github.com/Text-Mining/Persian-NER) | 5 | ~25,000,000 tokens (~1,000,000 sentences) | Wikipedia (Persian) | 2023 | CC BY-SA / Open-source | Persian Wikipedia NER corpus | Standard NER corpus with 5 entity types (PER, ORG, LOC, EVT, DAT); community contributions (>1000 users) allowed to improve annotations via https://app.text-mining.ir
 
+Natural Language Inference
+
+| Dataset                                         | # Classes                                | # Samples | Domains                                       | Year | License                  | Paper Title                                                           | Notes                                                                                                                              |
+| ----------------------------------------------- | ---------------------------------------- | --------- | --------------------------------------------- | ---- | ------------------------ | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| [FarsTail](https://github.com/dml-qom/FarsTail) | 3 (Entailment / Contradiction / Neutral) | 10,367    | Academic / Written (premise‑hypothesis pairs) | 2020 | Apache‑2.0 ([GitHub][1]) | *FarsTail: a Persian natural language inference dataset* ([arXiv][2]) | First relatively large-scale NLI dataset for Persian, with train/val/test split and both raw-text and indexed format ([GitHub][1]) |
+
+[1]: https://github.com/dml-qom/FarsTail?utm_source=chatgpt.com "GitHub - dml-qom/FarsTail: FarsTail: a Persian natural language inference dataset"
+[2]: https://arxiv.org/abs/2009.08820?utm_source=chatgpt.com "FarsTail: A Persian Natural Language Inference Dataset"
+
+
 
