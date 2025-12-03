@@ -40,7 +40,7 @@ Dependency Tree Bank
 
 | Dataset                                         | # Classes                                | # Samples | Domains                                       | Year | License                  | Paper Title                                                           | Notes                                                                                                                              |
 | ----------------------------------------------- | ---------------------------------------- | --------- | --------------------------------------------- | ---- | ------------------------ | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| [PerUDT](https://github.com/UniversalDependencies/UD_Persian-PerDT) | Treebank (Universal Dependencies) | 26,196 / 1,455 / 1,456 | Mixed (news / fiction / academic / web / blog) | 2023† | CC BY‑SA 4.0 | *Persian Universal Dependency Treebank (PerUDT)* | Automatic conversion of Persian Dependency Treebank (PerDT) into UD format with manual corrections, 29K sentences over multiple genres. |
+| [PerUDT](https://github.com/UniversalDependencies/UD_Persian-PerDT) | Treebank (Universal Dependencies) | 26,196 / 1,455 / 1,456 | Mixed (news / fiction / academic / web / blog) | 2023† | CC BY‑SA 4.0 | *The Persian Dependency Treebank Made Universal* | Automatic conversion of Persian Dependency Treebank (PerDT) into UD format with manual corrections, 29K sentences over multiple genres. |
 
 
 
