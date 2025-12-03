@@ -56,7 +56,7 @@ Benchmarks
 
 | Dataset | # Tasks & Sample counts | Domains / Genres | Year | License | Paper Title | Notes |
 | ------- | ---------------------- | ---------------- | ---- | ------- | ------------- | ----- |
-| [ParsiNLU](https://github.com/persiannlp/parsinlu) | 6 tasks — Reading Comprehension: 1,300 • Multiple‑Choice QA: 2,460 • Sentiment Analysis: 2,423 • Textual Entailment: 2,700 • Question Paraphrasing: 4,644 • Machine Translation: 47,745 sentence pairs | Mixed (literary texts, reviews, QA, translations) :contentReference[oaicite:2]{index=2} | 2021 | CC BY‑4.0 :contentReference[oaicite:3]{index=3} | *ParsiNLU: A Suite of Language Understanding Challenges for Persian* :contentReference[oaicite:4]{index=4} | First large‑scale multi‑task Persian NLU benchmark. Includes MC‑QA, entailment, paraphrasing, sentiment, RC, and a large MT subset. |
+| [ParsiNLU](https://github.com/persiannlp/parsinlu) | 6 tasks — Reading Comprehension: 1,300 • Multiple‑Choice QA: 2,460 • Sentiment Analysis: 2,423 • Textual Entailment: 2,700 • Question Paraphrasing: 4,644 • Machine Translation: 47,745 sentence pairs | Mixed (literary texts, reviews, QA, translations) | 2021 | CC BY‑4.0 | *ParsiNLU: A Suite of Language Understanding Challenges for Persian* | First large‑scale multi‑task Persian NLU benchmark. Includes MC‑QA, entailment, paraphrasing, sentiment, RC, and a large MT subset. |
 
 
 
