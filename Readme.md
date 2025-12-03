@@ -42,6 +42,16 @@ Dependency Tree Bank
 | ----------------------------------------------- | ---------------------------------------- | --------- | --------------------------------------------- | ---- | ------------------------ | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | [PerUDT](https://github.com/UniversalDependencies/UD_Persian-PerDT) | Treebank (Universal Dependencies) | 26,196 / 1,455 / 1,456 | Mixed (news / fiction / academic / web / blog) | 2023† | CC BY‑SA 4.0 | *The Persian Dependency Treebank Made Universal* | Automatic conversion of Persian Dependency Treebank (PerDT) into UD format with manual corrections, 29K sentences over multiple genres. |
 
+Multilingual parallel corpus
+
+| Dataset | # Classes | # Samples | Domains | Year | License | Paper Title | Notes |
+| ------- | --------- | --------- | ------- | ---- | ------- | ----------- | ----- |
+| [JW300](https://opus.nlpl.eu/JW300.php) | Parallel sentences | ~1.2M (fa-en) | Religious / translation | 2019 | CC BY | *JW300: A Wide-Coverage Parallel Corpus for Low-Resource Languages* | Large-scale parallel corpus from Jehovah’s Witness publications; Persian ↔ English included. |
+| [Tatoeba](https://tatoeba.org/) | Parallel sentences | ~50K (fa-en) | Mixed / community sentences | 2022 | CC0 | *Tatoeba: A Collection of Example Sentences for Many Languages* | Manually contributed sentences; smaller but cleaner Persian ↔ English pairs. |
+| [OPUS – OpenSubtitles](https://opus.nlpl.eu/OpenSubtitles.php) | Parallel sentences | ~200K (fa-en) | Movie subtitles | 2021 | CC BY‑SA 4.0 | *OPUS: Open Parallel Corpus* | Subtitles corpus; Persian ↔ English pairs available, informal conversational language. |
+| [CCMatrix](https://github.com/facebookresearch/CCMatrix) | Parallel sentences | ~50M (fa-en) | Web-crawled | 2020 | MIT | *CCMatrix: Mining Large-scale Parallel Corpora from the Web* | Massive web-crawled sentence pairs; noisy but very large Persian ↔ English corpus. |
+| [ParaCrawl](https://paracrawl.eu/) | Parallel sentences | ~300K (fa-en) | Web / news | 2020 | CC BY‑SA 4.0 | *ParaCrawl: Web-crawled Parallel Corpora for Machine Translation* | Web-crawled parallel corpus; smaller Persian ↔ English coverage. |
+| [mC4 (multilingual Common Crawl)](https://www.tensorflow.org/datasets/community_catalog/huggingface/mc4) | Parallel sentences | Variable | Web | 2020 | Apache 2.0 | *mC4: Multilingual Common Crawl Corpus* | Preprocessed Common Crawl; Persian text can be extracted for MT tasks. |
 
 
 
