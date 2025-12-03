@@ -52,6 +52,11 @@ Multilingual parallel corpus
 | [CCMatrix](https://github.com/facebookresearch/CCMatrix) | Parallel sentences | ~50M (fa-en) | Web-crawled | 2020 | MIT | *CCMatrix: Mining Large-scale Parallel Corpora from the Web* | Massive web-crawled sentence pairs; noisy but very large Persian ↔ English corpus. |
 | [mC4 (multilingual Common Crawl)](https://www.tensorflow.org/datasets/community_catalog/huggingface/mc4) | Parallel sentences | Variable | Web | 2020 | Apache 2.0 | *mC4: Multilingual Common Crawl Corpus* | Preprocessed Common Crawl; Persian text can be extracted for MT tasks. |
 
+Benchmarks
+
+| Dataset | # Classes / Tasks | # Samples | Domains / Genres | Year | License | Paper Title | Notes |
+| ------- | ---------------- | ---------- | ---------------- | ---- | ------- | ------------ | ----- |
+| [ParsiNLU](https://github.com/persiannlp/parsinlu) | 6 tasks (Reading Comprehension, Multiple‑Choice QA, Textual Entailment, Sentiment Analysis, Question Paraphrasing, Machine Translation) | ~ 14.5 k instances (plus larger MT subset) :contentReference[oaicite:1]{index=1} | Mixed (exams, reviews, trivia, translations) :contentReference[oaicite:2]{index=2} | 2021 | CC BY‑4.0 :contentReference[oaicite:3]{index=3} | *ParsiNLU: A Suite of Language Understanding Challenges for Persian* :contentReference[oaicite:4]{index=4} | First comprehensive multi‑task Persian NLU benchmark; includes reading comprehension, sentiment, paraphrase, entailment, QA, MT. |
 
 
 [1]: https://github.com/dml-qom/FarsTail?utm_source=chatgpt.com "GitHub - dml-qom/FarsTail: FarsTail: a Persian natural language inference dataset"
