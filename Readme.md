@@ -69,6 +69,13 @@ Instruction Tuning
 | [xmanii/Mauxi-SFT-Persian](https://huggingface.co/datasets/xmanii/Mauxi-SFT-Persian)                      | ~5k conversation threads                                      | Chat / dialogue                                                      | 2023 | Open / free for research & commercial | Hugging Face dataset | Smaller dialogue dataset for lightweight chat models; conversation-focused.                                                 |
 | [xmanii/mauxitalk-persian](https://huggingface.co/datasets/xmanii/mauxitalk-persian)                      | ~10k conversation samples                                     | Chat / dialogue                                                      | 2023 | MIT                                   | Hugging Face dataset | Informal, open-domain conversational dataset for Persian chatbots.                                                          |
 | [xmanii/Persian-Math-SFT](https://huggingface.co/datasets/xmanii/Persian-Math-SFT)                        | ~2k math Q&A pairs                                            | Education / STEM                                                     | 2023 | MIT                                   | Hugging Face dataset | Focused on Persian math questions; specialized SFT dataset for educational tutoring or math Q&A.                            |
+| [sinarashidi/alpaca-persian](https://huggingface.co/datasets/sinarashidi/alpaca-persian)                  | ~35,000 examples — instruction → output pairs                 | General / mixed Persian instructions                                  | 2023 | Not specified / unclear                | Hugging Face repo    | Persian version of Stanford Alpaca; no explicit license; mostly single-turn instruction-response; provenance unclear.       |
+
+
+
+
+
+
 
 
 
