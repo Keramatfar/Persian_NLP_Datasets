@@ -83,7 +83,7 @@ Text To Speech (TTS)
 Punctuation Resortaion
 | Dataset | # Classes / Labels | # Samples / Amount | Domains | Year | License | Paper Title | Notes |
 |---------|---------------------|---------------------|---------|------|---------|-------------|-------|
-| [PersianPunc](https://huggingface.co/datasets/MohammadJRanjbar/PersianPunc) | Text pairs (unpunctuated → punctuated) | ~100K–1M examples | Persian punctuation restoration / ASR post-processing | 2025 | (See HF dataset card) | *PersianPunc: Neural Punctuation Restoration for Persian* | Dataset for restoring punctuation in Persian transcripts; designed for ASR pipelines and text normalization. |
+| [PersianPunc](https://huggingface.co/datasets/MohammadJRanjbar/PersianPunc) | Text pairs (unpunctuated → punctuated) | ~100K–1M examples | Persian punctuation restoration / ASR post-processing | 2025 | (See HF dataset card) | - | Dataset for restoring punctuation in Persian transcripts; designed for ASR pipelines and text normalization. |
 
 
 
