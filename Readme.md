@@ -79,6 +79,11 @@ Text To Speech (TTS)
 | [ParsVoice](https://huggingface.co/datasets/MohammadJRanjbar/ParsVoice) | ~470+ speakers (multi-speaker IDs) | ~1,804 hours high-quality TTS speech (3,526 hours raw processed) | Audiobook / TTS-ready Persian speech | 2025 | (specified in repo; check LICENSE) | *ParsVoice: A Large-Scale Multi-Speaker Persian Speech Corpus for Text-to-Speech Synthesis* | Largest publicly released Persian TTS corpus; automated alignment pipeline; diverse speaker set. |
 | [Mana-TTS](https://huggingface.co/datasets/MahtaFetrat/Mana-TTS) | Single-speaker audio | ~114 hours (fa) | Persian magazine narration / TTS | 2025 | CC0-1.0 | ManaTTS Persian: a recipe for creating TTS datasets for lower resource languages | Largest publicly available single-speaker Persian TTS corpus with high-quality aligned audio/text; includes open pipeline. :contentReference[oaicite:0]{index=0} |
 
+| Dataset | # Classes / Labels | # Samples / Amount | Domains | Year | License | Paper Title | Notes |
+|---------|---------------------|---------------------|---------|------|---------|-------------|-------|
+| [PersianPunc](https://huggingface.co/datasets/MohammadJRanjbar/PersianPunc) | Text pairs (unpunctuated → punctuated) | ~100K–1M examples | Persian punctuation restoration / ASR post-processing | 2025 | (See HF dataset card) | *PersianPunc: Neural Punctuation Restoration for Persian* | Dataset for restoring punctuation in Persian transcripts; designed for ASR pipelines and text normalization. |
+
+
 
 
 
