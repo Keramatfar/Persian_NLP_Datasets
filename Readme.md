@@ -91,6 +91,11 @@ Image captioning
 | [Persian Image Captioning Dataset](https://www.kaggle.com/datasets/malekzadeharman/persian-image-captioning-dataset) | Image–caption pairs (no fixed label classes; paired descriptions) | ~1500 image–article pairs | News images & captions (Tasnim News Agency) | 2021 | Unknown / Not specified | Derived from “Persian Image Captioning Dataset (Lashkaryani, 2021)” | Images with corresponding Persian news captions crawled from a news agency; smaller dataset focused on real-world news imagery. |
 | COCO‑Flickr Farsi (Navid Kanaani) | Image–caption pairs (no fixed label classes; paired descriptions) | Same as COCO & Flickr sizes (translated captions) *(original COCO: 123k train images + multiple captions)* | General images from COCO & Flickr with translated Farsi captions | 2021 | Unknown / Not specified | “COCO‑Flickr Farsi” (translated COCO & Flickr captions to Persian) | Uses standard COCO and Flickr datasets with captions translated into Persian; no fixed class taxonomy (captioning dataset). |
 
+Visual question answering
+| Dataset | # Classes / Labels | # Samples / Amount | Domains | Year | License | Paper Title | Notes |
+|---------|---------------------|---------------------|---------|------|---------|-------------|-------|
+| ParsVQA‑Caps (Image Captioning split) | Image–caption pairs (no fixed label classes; paired descriptions) | ~7.5k images and ~9k captions | General images with Persian captions, focused on Persian culture & language | 2022 (presented) / 2021–2022 (collection) | Unknown / Not specified | *ParsVQA‑Caps: A Benchmark for Visual Question Answering and Image Captioning in Persian* | First Persian benchmark combining VQA & captioning; image captioning portion contains ~7.5k images with ~9k human‑written captions. :contentReference[oaicite:0]{index=0} |
+
 
 
 
