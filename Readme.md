@@ -85,6 +85,12 @@ Punctuation Resortaion
 |---------|---------------------|---------------------|---------|------|---------|-------------|-------|
 | [PersianPunc](https://huggingface.co/datasets/MohammadJRanjbar/PersianPunc) | Text pairs (unpunctuated → punctuated) | ~100K–1M examples | Persian punctuation restoration / ASR post-processing | 2025 | (See HF dataset card) | - | Dataset for restoring punctuation in Persian transcripts; designed for ASR pipelines and text normalization. |
 
+Image captioning
+| Dataset | # Classes / Labels | # Samples / Amount | Domains | Year | License | Paper Title | Notes |
+|---------|------------------|------------------|---------|------|---------|-------------|-------|
+| Persian Image Captioning Dataset (Lashkaryani) | Image–caption pairs (no fixed label classes; paired descriptions) | ~1500 image–article pairs | News images & captions (Tasnim News Agency) | 2021 | Unknown / Not specified | Derived from “Persian Image Captioning Dataset (Lashkaryani, 2021)” | Images with corresponding Persian news captions crawled from a news agency; smaller dataset focused on real-world news imagery. |
+| COCO‑Flickr Farsi (Navid Kanaani) | Image–caption pairs (no fixed label classes; paired descriptions) | Same as COCO & Flickr sizes (translated captions) *(original COCO: 123k train images + multiple captions)* | General images from COCO & Flickr with translated Farsi captions | 2021 | Unknown / Not specified | “COCO‑Flickr Farsi” (translated COCO & Flickr captions to Persian) | Uses standard COCO and Flickr datasets with captions translated into Persian; no fixed class taxonomy (captioning dataset). |
+
 
 
 
