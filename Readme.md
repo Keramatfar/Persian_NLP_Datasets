@@ -105,7 +105,7 @@ Face dataset with age and labels
 License Plate Characters Detection
 | Dataset | # Classes / Labels | # Samples / Amount | Domains | Year | License | Paper Title | Notes |
 |---------|--------------------|--------------------|---------|------|---------|-------------|-------|
-| **Iranis** | 28 character classes (10 digits + 17 letters + 1 symbol) | ~83,844 cropped images | Farsi license plate characters extracted from real‑world plate images | 2021 | GPL‑3.0 (repo) / dataset available under academic terms | *Iranis: A Large‑scale Dataset of Farsi License Plate Characters* | Contains Farsi digits, letters, and a symbol from Iranian license plates; includes annotations for object detection/classification; suitable for OCR, recognition, and character generation tasks :contentReference[oaicite:0]{index=0} |
+| [Iranis](https://github.com/alitourani/Iranis-dataset?utm_source=chatgpt.com) | 28 character classes (10 digits + 17 letters + 1 symbol) | ~83,844 cropped images | Farsi license plate characters extracted from real‑world plate images | 2021 | GPL‑3.0 (repo) / dataset available under academic terms | *Iranis: A Large‑scale Dataset of Farsi License Plate Characters* | Contains Farsi digits, letters, and a symbol from Iranian license plates; includes annotations for object detection/classification; suitable for OCR, recognition, and character generation tasks :contentReference[oaicite:0]{index=0} |
 
 
 
