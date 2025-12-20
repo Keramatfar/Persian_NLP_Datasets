@@ -94,13 +94,13 @@ Image captioning
 Visual question answering
 | Dataset | # Classes / Labels | # Samples / Amount | Domains | Year | License | Paper Title | Notes |
 |---------|---------------------|---------------------|---------|------|---------|-------------|-------|
-| [ParsVQA‑Caps](https://www.kaggle.com/datasets/maryamsadathashemi/parsvqacaps/data) | Image–caption pairs (no fixed label classes; paired descriptions) | ~7.5k images and ~9k captions | General images with Persian captions, focused on Persian culture & language | 2022 (presented) / 2021–2022 (collection) | Unknown / Not specified | *ParsVQA‑Caps: A Benchmark for Visual Question Answering and Image Captioning in Persian* | First Persian benchmark combining VQA & captioning; image captioning portion contains ~7.5k images with ~9k human‑written captions. :contentReference[oaicite:0]{index=0} |
+| [ParsVQA‑Caps](https://www.kaggle.com/datasets/maryamsadathashemi/parsvqacaps/data) | Image–caption pairs (no fixed label classes; paired descriptions) | ~7.5k images and ~9k captions | General images with Persian captions, focused on Persian culture & language | 2022 (presented) / 2021–2022 (collection) | Unknown / Not specified | *ParsVQA‑Caps: A Benchmark for Visual Question Answering and Image Captioning in Persian* | First Persian benchmark combining VQA & captioning; image captioning portion contains ~7.5k images with ~9k human‑written captions. |
 
 
 Face dataset with age and labels
 | Dataset | # Classes / Labels | # Samples / Amount | Domains | Year | License | Paper Title | Notes |
 |---------|---------------------|---------------------|---------|------|---------|-------------|-------|
-| [ParsFace](https://github.com/Amirnoroozi/parsface) | Face identity metadata + images (no fixed “class labels” per se; identities can serve as labels) | ~6,000 Iranian personalities with face images and metadata | Face images of public figures (actors, politicians, athletes, etc.) | Not specified in repo | Not specified in repo | — | Contains names (Persian & English), ages, professions (Persian & English), gender, Wikipedia links, and associated face images; suitable for face recognition/attribute tasks |
+| [ParsFace](https://github.com/Amirnoroozi/parsface) | Face identity metadata + images (no fixed “class labels” per se; identities can serve as labels) | ~6,000 Iranian personalities with face images and metadata | Face images of public figures (actors, politicians, athletes, etc.) | 2024 | CC0-1.0 | — | Contains names (Persian & English), ages, professions (Persian & English), gender, Wikipedia links, and associated face images; suitable for face recognition/attribute tasks |
 
 
 
