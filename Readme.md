@@ -96,7 +96,6 @@ Visual question answering
 |---------|---------------------|---------------------|---------|------|---------|-------------|-------|
 | [ParsVQA‑Caps](https://www.kaggle.com/datasets/maryamsadathashemi/parsvqacaps/data) | Image–caption pairs (no fixed label classes; paired descriptions) | ~7.5k images and ~9k captions | General images with Persian captions, focused on Persian culture & language | 2022 (presented) / 2021–2022 (collection) | Unknown / Not specified | *ParsVQA‑Caps: A Benchmark for Visual Question Answering and Image Captioning in Persian* | First Persian benchmark combining VQA & captioning; image captioning portion contains ~7.5k images with ~9k human‑written captions. |
 
-
 Face dataset with age and labels
 | Dataset | # Classes / Labels | # Samples / Amount | Domains | Year | License | Paper Title | Notes |
 |---------|---------------------|---------------------|---------|------|---------|-------------|-------|
@@ -106,6 +105,11 @@ License Plate Characters Detection
 | Dataset | # Classes / Labels | # Samples / Amount | Domains | Year | License | Paper Title | Notes |
 |---------|--------------------|--------------------|---------|------|---------|-------------|-------|
 | [Iranis](https://github.com/alitourani/Iranis-dataset?utm_source=chatgpt.com) | 28 character classes (10 digits + 17 letters + 1 symbol) | ~83,844 cropped images | Farsi license plate characters extracted from real‑world plate images | 2021 | GPL‑3.0 (repo) / dataset available under academic terms | *Iranis: A Large‑scale Dataset of Farsi License Plate Characters* | Contains Farsi digits, letters, and a symbol from Iranian license plates; includes annotations for object detection/classification; suitable for OCR, recognition, and character generation tasks :contentReference[oaicite:0]{index=0} |
+
+Optical Charcter Recognition (OCR)
+| Dataset | # Classes / Labels | # Samples / Amount | Domains | Year | License | Paper Title | Notes |
+|---------|---------------------|---------------------|---------|------|---------|-------------|-------|
+| [Persian OCR Garshasp](https://huggingface.co/datasets/AliShafiee2003/persian-ocr-garshasp-70c?utm_source=chatgpt.com) | No fixed class labels; image–text pairs with OCR ground truth | ~2.6M image–text pairs across 14 splits | Synthetic Persian text images for OCR & scene text recognition | 2025 (dataset release) | **CC BY 4.0** | *Persian OCR Garshasp: Large-Scale Synthetic OCR Dataset for Persian (Farsi)* | Synthetic RGB images (48×640) with Persian text (≤70 chars) and 13 styles (blur, noise, distortions); ideal for OCR/scene text recognition and pretraining before real data finetuning :contentReference[oaicite:0]{index=0}
 
 
 
