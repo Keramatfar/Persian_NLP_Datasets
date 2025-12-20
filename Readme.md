@@ -96,6 +96,11 @@ Visual question answering
 |---------|---------------------|---------------------|---------|------|---------|-------------|-------|
 | [ParsVQA‑Caps](https://www.kaggle.com/datasets/maryamsadathashemi/parsvqacaps/data) | Image–caption pairs (no fixed label classes; paired descriptions) | ~7.5k images and ~9k captions | General images with Persian captions, focused on Persian culture & language | 2022 (presented) / 2021–2022 (collection) | Unknown / Not specified | *ParsVQA‑Caps: A Benchmark for Visual Question Answering and Image Captioning in Persian* | First Persian benchmark combining VQA & captioning; image captioning portion contains ~7.5k images with ~9k human‑written captions. :contentReference[oaicite:0]{index=0} |
 
+| Dataset | # Classes / Labels | # Samples / Amount | Domains | Year | License | Paper Title | Notes |
+|---------|-------------------|------------------|---------|------|---------|-------------|-------|
+| [ParsVQA‑Caps](https://www.kaggle.com/datasets/maryamsadathashemi/parsvqacaps/data) | Image–caption pairs (no fixed label classes; paired descriptions) | ~7.5k images and ~9k captions | General images with Persian captions, focused on Persian culture & language | 2021 | Not specified on Kaggle | Persian Image Captioning Dataset (Lashkaryani, 2021) | Used for Persian image captioning and VQA tasks; captions are in Persian; can be adapted for training captioning or multimodal models |
+
+
 
 
 
