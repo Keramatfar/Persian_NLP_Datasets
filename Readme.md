@@ -102,6 +102,10 @@ Face dataset with age and labels
 |---------|---------------------|---------------------|---------|------|---------|-------------|-------|
 | [ParsFace](https://github.com/Amirnoroozi/parsface) | Face identity metadata + images (no fixed “class labels” per se; identities can serve as labels) | ~6,000 Iranian personalities with face images and metadata | Face images of public figures (actors, politicians, athletes, etc.) | 2024 | CC0-1.0 | — | Contains names (Persian & English), ages, professions (Persian & English), gender, Wikipedia links, and associated face images; suitable for face recognition/attribute tasks |
 
+License Plate Characters Detection
+| Dataset | # Classes / Labels | # Samples / Amount | Domains | Year | License | Paper Title | Notes |
+|---------|--------------------|--------------------|---------|------|---------|-------------|-------|
+| **Iranis** | 28 character classes (10 digits + 17 letters + 1 symbol) | ~83,844 cropped images | Farsi license plate characters extracted from real‑world plate images | 2021 | GPL‑3.0 (repo) / dataset available under academic terms | *Iranis: A Large‑scale Dataset of Farsi License Plate Characters* | Contains Farsi digits, letters, and a symbol from Iranian license plates; includes annotations for object detection/classification; suitable for OCR, recognition, and character generation tasks :contentReference[oaicite:0]{index=0} |
 
 
 
