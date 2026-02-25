@@ -102,6 +102,10 @@ Face, age, gender
 | [ParsFace](https://github.com/Amirnoroozi/parsface) | Face identity metadata + images (no fixed “class labels” per se; identities can serve as labels) | ~6,000 Iranian personalities with face images and metadata | Face images of public figures (actors, politicians, athletes, etc.) | 2024 | CC0-1.0 | — | Contains names (Persian & English), ages, professions (Persian & English), gender, Wikipedia links, and associated face images; suitable for face recognition/attribute tasks |
 | [Iranian-author-names-based-on-gender](https://github.com/MohRafiee/Iranian-author-names-based-on-gender.-) | Gender (Male, Female) based on first name classification | Two files (`male.xlsx`, `female.xlsx`) containing author names from SID.ir | Academic authors with Persian publications | 2026 | Not specified | — | Dataset includes authors from the SID.ir academic database. Gender was identified and labeled based on Persian first names. Useful for tasks like author profiling, demographic analysis, or training gender classification models for Persian names. |
 
+| Dataset | # Classes / Labels | # Samples / Amount | Domains | Year | License | Paper Title | Notes |
+|---------|---------------------|---------------------|---------|------|---------|-------------|-------|
+| [Pars-OFF](https://github.com/KamyarDarvishi/Pars-OFF) | 3-level hierarchical: **Level A** (OFF, NOT); **Level B** (TIN, UNT, NULL); **Level C** (IND, GRP, OTH, NULL) | ~12k+ tweets (est. from train/test splits) | Farsi social media (Twitter) | 2022 | Not specified | *Paper to be cited as per repository* | First Farsi offensive detection dataset; hierarchical levels; includes aspect annotations & keyword list |
+
 
 License Plate Characters Detection
 | Dataset | # Classes / Labels | # Samples / Amount | Domains | Year | License | Paper Title | Notes |
