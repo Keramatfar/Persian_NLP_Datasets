@@ -1,3 +1,7 @@
+🤝 Contribute Your Persian Dataset 🌍
+
+
+
 Emotion Classification
 | DataSet | Type | Classes | # Classes | # Samples | Domains | EmotionModel | Year | License | paper |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
